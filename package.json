@@ -8,7 +8,7 @@
     "test": "node --test"
   },
   "dependencies": {
-    "chalk": "4.1.2",
+    "chalk": "6.0.0",
     "node-fetch": "2.6.7",
     "semver": "6.3.1"
   }
